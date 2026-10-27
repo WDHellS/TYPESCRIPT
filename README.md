@@ -61,7 +61,7 @@ where all begins
 | **Includes** | 🔹 | set Custom Button Color |
 | **Clicking**  | 👆🏻 | left-click, open selected **Note** |
 
-auto-hides middle long note scroll, reappears at top\bottom scroll<br>
+<sub>auto-hides middle long note scroll, reappears at top\bottom scroll</sub><br>
 `Settings > WDS.DarkBrain®Notes > Interface Options > Note Navigation :` **Navigation Bar**<br>
 🔶 : *Purpose* : *enable custom organization upon note navigation relevance*;<br>
 🔹 editable through Properties Metadata<br>
