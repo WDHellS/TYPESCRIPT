@@ -72,7 +72,7 @@ auto-hides middle long note scroll, reappears at top\bottom scroll<br>
 
 ### 📦 Author Brands
 
-WIP
+WIP<br>
 `Settings > WDS.DarkBrain®Notes > Interface Options > Theming :` **Author Brands**<br>
 
 ---
@@ -84,7 +84,9 @@ WIP
 🔹 renders collapsed headings decoration<br>
 🔹 renders DarkBrain-Emphasis | : *Purpose* : *enable easy note structure for style organization concepts*;<br>
 
+---
 
+<sub>thanks to GitHub Copilot, Qwen Studio, Google Gemini</sub>
 
 
 
