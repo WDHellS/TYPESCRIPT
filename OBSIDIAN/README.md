@@ -83,6 +83,10 @@ WIP<br>
 
 🔹 renders collapsed headings decoration<br>
 🔹 renders DarkBrain-Emphasis | : *Purpose* : *enable easy note structure for style organization concepts*;<br>
+  
+  - styles a paragraph, adds emoji, color, centered, and fold boundary to emphasis
+
+🔹
 
 ---
 
