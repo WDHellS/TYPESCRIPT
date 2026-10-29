@@ -106,6 +106,7 @@ WIP<br>
 
 ---
 
+thanks for choosing DarkSystemCD<br>
 <sub>thanks to GitHub Copilot, Qwen Studio, Google Gemini</sub>
 
 
