@@ -78,13 +78,29 @@ WIP<br>
 ---
 
 ### 📦 Pattern Detection
+🔸 **Enables WDS.DarkBrain®Notes idealized structure.**
 
 `Settings > WDS.DarkBrain®Notes > Interface Options > Theming :` **Pattern Detection**<br>
 
 🔹 renders collapsed headings decoration<br>
-🔹 renders DarkBrain-Emphasis | : *Purpose* : *enable easy note structure for style organization concepts*;<br>
-  
-  - styles a paragraph, adds emoji, color, centered, and fold boundary to emphasis
+🔹 renders DarkBrain-Emphasis
+  - <details>
+    <summary>descriptions</summary>
+     <sub>styles a paragraph, adds emoji, color, centered, and fold boundary to emphasis</sub><br>
+     <pre>
+     %%darkbrain-emphasis%%
+     **this is a paragraph** #TagSample
+     🔹other character must be used to simulate lists, lists are not paragraphs
+     🔹tags are automatically organized and displayed at the bottom of the emphasis
+     🔹emphasis text are disabled, double-click to enable text selection
+     🔹an emoji can be assigned and displayed to emphasis, clicking it opens the dialog
+     🔹color can be assigned and displayed to emphasis background
+     🔹option to display emphasis centered
+     🔹option for making emphasis break the containing heading fold, preserving below content unfolded
+     <br> this paragraph is not styled</pre>
+
+    🔶 : <i>Purpose</i> : <i>enable easy note structure for style organization concepts</i>;
+    </details>
 
 🔹
 
