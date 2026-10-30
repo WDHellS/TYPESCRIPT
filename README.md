@@ -17,7 +17,8 @@ where all begins
 | **Clicking** | 👆🏻 | elsewhere, **restores**: *Custom Text* |
 
  `Settings > WDS.DarkBrain®Notes > Interface Options > Note Navigation :` **Title Bar**<br>
-🔶 : *Purpose* : *enable focus to personal environment of note taking*;
+🔶 : *Purpose* : *enable focus to personal environment of note taking*;<br>
+🔹 disabled for external Valt files
 
 ---
 
