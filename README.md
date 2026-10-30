@@ -1,8 +1,9 @@
-# **WDS.DarkBrain®Notes** | Obsidian Plugin
+# **WDS.DarkBrain®Notes** | Obsidian Plug-in
 where all begins
 
 ## Developed Features
-🔻Idealization and conceptualized organization
+🔻Idealization and conceptualized organization<br>
+🔻Built, working, and tested on Obsidian version 1.14.4.
 
 ---
 
