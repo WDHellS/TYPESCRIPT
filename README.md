@@ -60,6 +60,7 @@ where all begins
 | **Inserts**  | 🔹 | **Button** |
 | **Includes** | 🔹 | set Custom Button Color |
 | **Clicking**  | 👆🏻 | left-click, open selected **Note** |
+| **Clicking**  | 👆🏻 | right-click, edit selected **Note** button |
 
 <sub>auto-hides middle long note scroll, reappears at top\bottom scroll</sub><br>
 `Settings > WDS.DarkBrain®Notes > Interface Options > Note Navigation :` **Navigation Bar**<br>
