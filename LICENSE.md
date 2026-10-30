@@ -1,4 +1,4 @@
-# Infernal Licence
+# Infernal License
 
 ## THE INFESTED CODE & IDEALIZATION LICENSE
 Copyright (c) Eternity. All Rights Reserved.
