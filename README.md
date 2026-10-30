@@ -88,7 +88,7 @@ WIP<br>
     <summary>descriptions</summary>
      <sub>styles a paragraph, adds emoji, color, centered, and fold boundary to emphasis</sub><br>
 
-     <img src="https://i.imgur.com/RMWuuGU.gif" title="darkbrain-emphasis" />
+     <img src="https://i.imgur.com/RMWuuGU.gif" title="DarkBrain-Emphasis illustration based on the code below" />
    
      <pre>
      %%darkbrain--emphasis[🎃]:orange%%
