@@ -91,16 +91,12 @@ WIP<br>
      <img src="https://i.imgur.com/RMWuuGU.gif" title="darkbrain-emphasis" />
    
      <pre>
-     %%darkbrain-emphasis%%
-     **this is a paragraph** #TagSample
-     🔹other character must be used to simulate lists, lists are not paragraphs
-     🔹tags are automatically organized and displayed at the bottom of the emphasis
-     🔹emphasis text are disabled, double-click to enable text selection
-     🔹an emoji can be assigned and displayed to emphasis, clicking it opens the dialog
-     🔹color can be assigned and displayed to emphasis background
-     🔹option to display emphasis centered
-     🔹option for making emphasis break the containing heading fold, preserving below content unfolded
-     <br> this paragraph is not styled</pre>
+     %%darkbrain--emphasis[🎃]:orange%%
+     **this is a paragraph to be styled** #TagSample 
+     also enables in Reading Mode an interactive icon area at the top-left of
+     the paragraph allowing for opening a dialog for emphasis customization
+   
+     this paragraph is not styled</pre>
 
     🔶 : <i>Purpose</i> : <i>enable easy note structure for style organization concepts</i>;
     </details>
