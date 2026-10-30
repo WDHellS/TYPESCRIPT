@@ -98,7 +98,9 @@ WIP<br>
    
      this paragraph is not styled</pre>
 
-    🔶 : <i>Purpose</i> : <i>enable easy note structure for style organization concepts</i>;
+    🔶 : <i>Purpose</i> : <i>enable easy note structure for style organization concepts</i>;<br>
+    🔹 access through Context Menu <sub>appears only for valid paragraphs</sub><br>
+    🔹 customizable through Emphasis Dialog
     </details>
 
 🔹
